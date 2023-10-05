@@ -14,6 +14,7 @@ nav {
     align-items: center;
     justify-content: space-between;
     display: flex;
+    padding-top: 20px;
 }
 
 nav h4 {
@@ -326,7 +327,7 @@ li select {
 .glasss {
     padding-bottom: 10px;
     width: 31%;
-    border-radius: 5px;
+    border-radius: 7px;
     background: #FFFFFF;
     stroke-width: 1px;
     stroke: #F2EFEF;
@@ -346,7 +347,7 @@ li select {
 .glass-wrap h3 {
     color: #242323;
     font-weight: 600;
-    width: 95%;
+    width: 96%;
     font-size: 23px;
     line-height: 30px;
 }
